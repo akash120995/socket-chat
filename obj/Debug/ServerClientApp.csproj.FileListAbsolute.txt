@@ -1,0 +1,21 @@
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\bin\Debug\ServerClientApp.exe.config
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\bin\Debug\ServerClientApp.exe
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\bin\Debug\ServerClientApp.pdb
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.csprojResolveAssemblyReference.cache
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.Form1.resources
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.Properties.Resources.resources
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.csproj.GenerateResource.Cache
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.exe
+c:\users\aakash\documents\visual studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.pdb
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\bin\Debug\ServerClientApp.exe.config
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.exe
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.pdb
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\bin\Debug\ServerClientApp.exe
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\bin\Debug\ServerClientApp.pdb
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.csprojResolveAssemblyReference.cache
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.Form1.resources
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.Properties.Resources.resources
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.csproj.GenerateResource.Cache
+G:\Projects\C#\ServerClientApp\ServerClientApp\bin\Debug\ServerClientApp.exe.config
+G:\Projects\C#\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.exe
+G:\Projects\C#\ServerClientApp\ServerClientApp\obj\Debug\ServerClientApp.pdb
